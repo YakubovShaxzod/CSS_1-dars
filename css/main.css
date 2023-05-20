@@ -1,0 +1,21 @@
+/*selecrs: tag,class,id*/
+
+p{
+    color: green;
+}
+.text{
+    color: bisque;
+}
+.font{
+    font-size: 25px;
+}
+#bg{
+    background-color: black;
+    color: white;
+}
+#ba{
+    background-color: black;
+}
+
+
+
